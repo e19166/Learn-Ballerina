@@ -1,0 +1,8 @@
+[package]
+org = "wishulaj"
+name = "sending_a_message_to_a_service"
+version = "0.1.0"
+distribution = "2201.9.2"
+
+[build-options]
+observabilityIncluded = true
